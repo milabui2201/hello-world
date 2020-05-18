@@ -1,2 +1,3 @@
 # hello-world
-This is learning folder
+
+Hi! My name is Mila.
